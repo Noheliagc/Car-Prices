@@ -54,6 +54,9 @@ Some intersting findings are also that States like Wyoming, Alaska, and Montana 
 - 4WD options are ideal for rugged, off-road needs, while RWD suits performance-oriented buyers, and FWD offers a more economical choice for daily use.
 - For clients prioritizing economy, 4-cylinder vehicles are more affordable and practical for everyday use. Additionally, categories like "3 cylinders" and "other" offer budget-friendly options with diverse types, appealing to those open to varied models within a modest budget.
 
+By understanding factors like brand (model), condition, fuel type, drive style..., the dealership can better align its offerings with customer preferences, making it easier to connect buyers with the cars they’re looking for. Building strategies to meet these findings will help the dealership stand out in the market and provide an experience that truly resonates with buyers.
+
+For a clear visualization a deep understanding of the analysis click on the Jupyter Notebook link 
 
 
 
