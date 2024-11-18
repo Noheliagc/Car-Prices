@@ -56,7 +56,7 @@ Some intersting findings are also that States like Wyoming, Alaska, and Montana 
 
 By understanding factors like brand (model), condition, fuel type, drive style..., the dealership can better align its offerings with customer preferences, making it easier to connect buyers with the cars they’re looking for. Building strategies to meet these findings will help the dealership stand out in the market and provide an experience that truly resonates with buyers.
 
-For a clear visualization a deep understanding of the analysis click on the Jupyter Notebook link 
+For a clear visualization a deep understanding of the analysis click on the Jupyter Notebook link https://github.com/Noheliagc/Car-Prices/blob/main/Car-Price.ipynb
 
 
 
